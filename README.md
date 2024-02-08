@@ -1,3 +1,3 @@
 # internship
 bharat intern tasks
-https://github.com/jhansibeera/internship.git
+https://github.com/jhansibeera/task1.git
